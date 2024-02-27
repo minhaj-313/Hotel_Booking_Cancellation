@@ -15,7 +15,7 @@ Explore insights into hotel booking cancellations using this data analysis proje
 - Insights
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](https://github.com/minhaj-313/Hotel_Booking_Cancellation/blob/main/Hotel_Booking_Cancellation_Dashboard_UsingExcel_allyears.png)
+![Dashboard Preview](https://github.com/minhaj-313/Hotel_Booking_Cancellation/blob/main/Hotel%20Booking%20Cancellation%20Analysis%20Dashboards%20using%20Excel.png)
 
 ## 📝 Instructions
 1. Download the Excel file to explore the analysis.
