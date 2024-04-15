@@ -24,4 +24,11 @@ Explore insights into hotel booking cancellations using this data analysis proje
 
 Feel free to contribute, provide feedback, or use this project as a learning resource.
 
+## Connect with Me:
+Follow me on LinkedIn for more data analysis projects and insights: [LinkedIn Profile](https://www.linkedin.com/in/minhaj313)
+
+## Tags:
+#DataAnalysis #DataAnalyst #Excel #DataVisualization #BusinessIntelligence #SalesAnalytics
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
